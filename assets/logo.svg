@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 210" role="img" aria-labelledby="title">
+  <title id="title">Блэкгрумер — груминг и SPA</title>
+  <g fill="none" stroke="#164c43" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path opacity=".48" d="M88 32l74 92M161 32L88 124M70 22c18 4 25 17 16 31-9 13-26 12-34-1-7-13 1-26 18-30zm110 2c-17 3-25 16-18 30 8 14 25 15 34 3 9-13 2-27-16-33z"/>
+    <path opacity=".48" d="M151 31l32 28m-39-18 31 28m-40-18 31 28m-40-18 31 28"/>
+    <path d="M39 144c20-5 35-21 42-43 7-22 5-47 20-61 15 18 12 37 34 49 15 8 22 15 18 26-7 19-38 29-58 28"/>
+    <path d="M113 143c17-2 28-12 35-28 10 19 26 28 50 29"/>
+    <path d="M153 114c-2-18 8-34 25-43l4-23 19 17 23-3-7 22c15 13 17 34 5 50-11 14-33 20-50 10"/>
+    <path stroke="#c56f4a" d="M155 83c7-10 20-4 20 6 0-10 14-16 20-6 6 11-8 21-20 31-11-10-26-20-20-31z"/>
+  </g>
+  <text x="252" y="105" fill="#164c43" font-family="Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="4">БЛЭКГРУМЕР</text>
+  <text x="255" y="147" fill="#7c8462" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="8">ГРУМИНГ И SPA</text>
+</svg>
